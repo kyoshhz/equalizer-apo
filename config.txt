@@ -1,0 +1,2 @@
+Device: 喇叭 HyperX Cloud Flight Wireless Headset {bf543fb5-7dc9-49c4-9bbd-4e168ef0ba38}
+Include: HyperX Cloud Fight.txt
